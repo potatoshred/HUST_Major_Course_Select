@@ -6,8 +6,6 @@
 
 ---
 
-
-
 ~~华科主菜选择❌~~
 
 ~~我要打华科Major❌~~
@@ -16,14 +14,12 @@
 
 ---
 
-
+![1756964186841](image/readme/1756964186841.png)
 
 ## 使用方法
 
 1. 配置python3环境，并 `pip install requests`
-2. 下载[本脚本](./selectMajor.py)，用编辑器打开，手动配置Cookie和待选课程
-
-   ![1756960503629](image/readme/1756960503629.png)
+2. 下载[本脚本](./selectMajor.py)，手动配置**Cookie**和**待选课程**，User-agent一般**不需要**修改.
 3. 待选课系统打开后，运行 `python selectMajor.py`
 
 ## Cookie查找方法
