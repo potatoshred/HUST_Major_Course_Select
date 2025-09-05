@@ -14,10 +14,9 @@
 
 ---
 
-
-
 GUI新版本[已发布](https://github.com/potatoshred/HUST_Major_Course_Select_GUI/releases/latest)，可直接用。
 
+<img src="image/readme/1757090356806.png" alt="1757090356806" style="zoom:50%;" />
 
 # 以下为旧版本
 
